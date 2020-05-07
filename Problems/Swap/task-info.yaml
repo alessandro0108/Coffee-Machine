@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    // Variables a and b already exist. Write only exchange actions here.
+    c =
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7308
+status: Solved
+record: -1

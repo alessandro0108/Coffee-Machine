@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    import java.util.*
+
+    // write your code here
+
+    /* Do not change code below */
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+        val number = scanner.nextInt()
+        println(square(number))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4592
+status: Solved
+record: -1

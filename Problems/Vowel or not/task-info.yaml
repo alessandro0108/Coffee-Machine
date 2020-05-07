@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    import java.util.Scanner
+
+    // write your function here
+
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+
+        val letter = scanner.next()[0]
+
+        println(isVowel(letter))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4586
+status: Solved
+record: -1
